@@ -3,6 +3,6 @@
 First collab Git Hub!
 
 ## Project Timeline
-- Here is a to-do
-- Here is another to-do
-- Here is a third to-do
+- Figure out what our app does.
+- Divide and conquer.
+- Turn in work.
